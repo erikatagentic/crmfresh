@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #fafaf9;
+  color: #0a0a0a;
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+}
