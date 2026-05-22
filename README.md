@@ -2,6 +2,8 @@
 
 Marketing site for crmfresh.io. Single landing page. Next.js 16 App Router, Tailwind v4, deployed to Vercel.
 
+**Live:** https://crmfresh.vercel.app/
+
 ## Dev
 
 ```bash
